@@ -1,2 +1,4 @@
 boto
 paramiko
+Can you please add some performance numbers to the main project docs indicating inference latency running some common hardware options e.g. AWS p2, GCP gpu instance, CPU inference, Raspbery pi, etc.
+
